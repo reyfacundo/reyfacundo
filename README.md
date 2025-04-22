@@ -93,4 +93,4 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=25&duration=1900&pause=1300&color=CF4040&background=250201&center=true&vCenter=true&width=1000&height=70&lines=%E2%9D%8C+%E2%96%BC+A+fatal+error+occurred.+Closing+ReadMe)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=25&duration=1900&pause=1300&color=CF4040&background=250201&center=true&vCenter=true&width=1000&height=70&lines=%E2%9D%8C+%E2%96%BC+A+fatal+error+occurred.+Closing+ReadMe.md)](https://git.io/typing-svg)
