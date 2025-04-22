@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=33&duration=1900&pause=1300&color=C0D28C&background=1D1D1D&center=true&vCenter=true&width=1000&height=150&lines=1+%E2%9E%A4+import+Hello+from+'World')](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=33&duration=1900&pause=1300&color=C0D28C&background=1D1D1D&center=true&vCenter=true&width=1000&lines=---------------------------------)](https://git.io/typing-svg)
 
 <div align="center">
   <table>
@@ -50,8 +49,6 @@
   </table>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=33&duration=1900&pause=1300&color=C0D28C&background=1D1D1D&center=true&vCenter=true&width=1000&lines=---------------------------------)](https://git.io/typing-svg)
-
 <div align="center">
   <table>
     <thead>
@@ -73,25 +70,12 @@
         <td>HTML & CSS, JavaScript, React, BackEnd, FullStack</td>
       </tr>
       <tr>
-        <td><strong>Codo a Codo</strong></td>
-        <td>Full Stack Web Development</td>
-      </tr>
-      <tr>
-        <td><strong>Talento Tech</strong></td>
-        <td>UX Design, <em>UI Design (in progress)</em></td>
-      </tr>
-      <tr>
-        <td><strong>BA Multiplica 2.0</strong></td>
-        <td>Front End, Project Management, Emotional Intelligence</td>
-      </tr>
-      <tr>
         <td><strong>Vicente López University Center (CUV)</strong></td>
         <td>Full Stack Web Development</td>
       </tr>
-      <tr>
-        <td><strong>Buenos Aires Aprende – Codo a Codo</strong></td>
-        <td>Full Stack Web Development</td>
-      </tr>
+     <tr>
+       <td><sub>+ more on [LinkedIn](https://www.linkedin.com/in/facundorey/)</sub></td>
+     </tr>
     </tbody>
   </table>
 </div>
@@ -99,47 +83,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=33&duration=1900&pause=1300&color=C0D28C&background=1D1D1D&center=true&vCenter=true&width=1000&lines=---------------------------------)](https://git.io/typing-svg)
 
 <div align="center">
-  <table style="margin-right: 20px; display: inline-block;">
-    <thead>
-      <tr>
-        <th colspan="2" style="text-align: center; font-size: 24px;">5 ➤ 🌐 Languages</th>
-      </tr>
-      <tr>
-        <th>Language</th>
-        <th>Proficiency</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png" width="20" /> English</td>
-        <td>Advanced</td>
-      </tr>
-      <tr>
-        <td><img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/es.png" width="20" /> Spanish</td>
-        <td>Native</td>
-      </tr>
-    </tbody>
-  </table>
 
-  
-  <table style="display: inline-block;">
-    <tr>
-      <th colspan="2" style="text-align: center; font-size: 24px;"><strong>6 ➤ 📧 Contact</strong><br/></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <a href="https://www.linkedin.com/in/facundorey/" target="_blank">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-          </a>
-        </td>
-    <td>
-          <p><bold>facundotobiasrey@gmail.com</bold> </p>
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
+| 🌐 Languages | 💬 Contact |
+|-------------|------------|
+| <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png" width="20" /> English – Advanced <br> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/es.png" width="20" /> Spanish – Native | facundotobiasrey@gmail.com <br>  <br> <a href="https://www.linkedin.com/in/facundorey/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a> |
+
 </div>
+
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=25&duration=1900&pause=1300&color=CF4040&background=250201&center=true&vCenter=true&width=1000&height=70&lines=%E2%9D%8C+%E2%96%BC+A+fatal+error+occurred.+Closing+ReadMe)](https://git.io/typing-svg)
