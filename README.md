@@ -120,10 +120,11 @@
       </tr>
     </tbody>
   </table>
+
   
   <table style="display: inline-block;">
     <tr>
-      <th colspan="2" style="text-align: center; font-size: 24px;"><strong>6 ➤ 🛠️ Links</strong><br/></th>
+      <th colspan="2" style="text-align: center; font-size: 24px;"><strong>6 ➤ 📧 Contact</strong><br/></th>
     </tr>
     <tr>
       <td>
@@ -131,8 +132,9 @@
           <a href="https://www.linkedin.com/in/facundorey/" target="_blank">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
           </a>
-          <a href="mailto:facundotobiasrey@gmail.com" target="_blank">
-            <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+        </td>
+    <td>
+          <p><bold>facundotobiasrey@gmail.com</bold> </p>
           </a>
         </p>
       </td>
