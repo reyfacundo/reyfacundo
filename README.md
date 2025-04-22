@@ -74,7 +74,7 @@
         <td>Full Stack Web Development</td>
       </tr>
      <tr>
-       <td><sub>+ more on [LinkedIn](https://www.linkedin.com/in/facundorey/)</sub></td>
+       <td><sub>+ more on <a href="https://www.linkedin.com/in/facundorey/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a></sub></td>
      </tr>
     </tbody>
   </table>
