@@ -85,7 +85,7 @@
 
 <div align="center">
 
-| 🌐 Languages | 💬 Contact |
+|6 ➤  🌐 Languages | 7 ➤ 💬 Contact |
 |-------------|------------|
 | <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png" width="20" /> English – Advanced <br> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/es.png" width="20" /> Spanish – Native | facundotobiasrey@gmail.com <br>  <br> <a href="https://www.linkedin.com/in/facundorey/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a> |
 
