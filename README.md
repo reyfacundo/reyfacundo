@@ -4,7 +4,7 @@
   <table>
     <tr>
       <td colspan="2" style="text-align: center;">
-        <strong>2 ➤ 🌎 Full Stack Developer based in Buenos Aires, Argentina</strong>
+        <strong>2 ➤ 🌎 Full Stack Developer based in Argentina</strong>
       </td>
     </tr>
     <tr>
